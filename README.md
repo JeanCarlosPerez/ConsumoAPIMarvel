@@ -9,7 +9,7 @@ Este proyecto es una aplicación web que utiliza la API de Marvel para mostrar i
 
 ![Fondo de primera pagina](https://github.com/JeanCarlosPerez/ConsumoAPIMarvel/blob/main/Fondo.png?raw=true)
 
-##Tecnologías Utilizadas 
+## Tecnologías Utilizadas 
 
 - HTML
 - CSS
@@ -18,13 +18,13 @@ Este proyecto es una aplicación web que utiliza la API de Marvel para mostrar i
 - Fetch API para solicitudes HTTP
 - API de Marvel
 
-##Cómo Ejecutar
+## Cómo Ejecutar
 
 Para ejecutar este proyecto en tu máquina local, asegúrate de tener instalado lo siguiente:
 
 - Un navegador web moderno.
 
-##Instalacion
+## Instalacion
 
 1. Clona el repositorio:
 
@@ -36,14 +36,14 @@ Para ejecutar este proyecto en tu máquina local, asegúrate de tener instalado 
 
 3. Abre el archivo index.html en tu navegador o configura un servidor local.
 
-##Uso
+## Uso
 
 Una vez que el proyecto está en ejecución, puedes:
 
 - Navegar a través de la lista de personajes.
 - Hacer clic en un personaje para ver detalles adicionales.
 
-##Créditos
+## Créditos
 
 - API de Marvel
 - Diseño e implementación: Jean Carlos Pérez
