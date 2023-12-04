@@ -37,3 +37,15 @@ h1{
         grid-template-columns: 1fr;
     }
 }
+
+/*estilo titulo*/
+
+.marvel-title {
+    font-family: 'Arial', sans-serif;
+    color: #1A237E; /* Azul Marvel oscuro */
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Sombra para dar profundidad */
+    font-size: 3em; /* Tamaño grande para impacto */
+    letter-spacing: 0.05em; /* Espaciado para un estilo más dramático */
+    text-align: center; /* Alinear al centro */
+}
